@@ -1,10 +1,11 @@
 # Annihilation Serverlist
 This repository only contains servers that contain Annihilation/Destroy The Nexus minigame in Minecraft Servers.
+
 This server list is inspired by https://github.com/itzyongan/asia-pvp-servers
 ## Premium Servers
 |Server Name|Server IP|Native Version|Version Range|Region|Comment|
 |--|--|--|--|--|--|
-|⭐Shotbow|[play.shotbow.net](http://play.shotbow.net/)|1.21.10|1.20+|US|The Original Annihilation Minigame that's still being updated to this very day, Recommended to join with 1.21.10 Client.|
+|⭐Shotbow|[play.shotbow.net](http://play.shotbow.net/)|1.21.10|1.20+|US|The Original Annihilation Minigame that's still being updated to this very day, Recommended to join with 1.21.10 Client. This server still has 1.8-like combat.|
 ## Cracked Servers
 |Server Name|Server IP|Native Version|Version Range|Region|Comment|
 |--|--|--|--|--|--|
