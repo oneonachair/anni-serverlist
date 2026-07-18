@@ -2,6 +2,8 @@
 This repository only contains servers that contain Annihilation/Destroy The Nexus minigame in Minecraft Servers. To see gameplay differences you can check the wiki which it's currently empty right now.
 
 This server list is inspired by https://github.com/itzyongan/asia-pvp-servers
+## Contribution
+You can contribute on this repo by making a pull request.
 ## Premium Servers
 |Server Name|Server IP|Native Version|Version Range|Region|Comment|
 |--|--|--|--|--|--|
