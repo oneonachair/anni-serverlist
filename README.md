@@ -1,2 +1,18 @@
-# anni-serverlist
-This repository contains server ips (wip)
+# Annihilation Serverlist
+This repository only contains servers that contain Annihilation/Destroy The Nexus minigame in Minecraft Servers.
+This server list is inspired by https://github.com/itzyongan/asia-pvp-servers
+## Premium Servers
+|Server Name|Server IP|Native Version|Version Range|Region|Comment|
+|--|--|--|--|--|--|
+|⭐Shotbow|[play.shotbow.net](http://play.shotbow.net/)|1.21.10|1.20+|US|The Original Annihilation Minigame that's still being updated to this very day, Recommended to join with 1.21.10 Client.|
+## Cracked Servers
+|Server Name|Server IP|Native Version|Version Range|Region|Comment|
+|--|--|--|--|--|--|
+|CosmicMC|[play.cosmicmc.com](http://play.cosmicmc.com/)|1.8.8/1.8.9|1.8+|Canada|This server specifically allows you to have Custom Enchantments, and Place Blocks that can regenerate for the rest of the match.|
+|Lucky Network|[play.luckynetwork.net](http://play.luckynetwork.net)|1.21.11|1.21.11|Singapore|There are currently 2 maps at the moment, CostalV3 and Canyon. All Team Colors are changed as well.|
+|GuildCraft|[play.guildcraft.net](http://play.guildcraft.net/)|1.8|1.8|Germany||
+## Unverified Servers
+|Server Name|Server IP|Native Version|Version Range|Region|Comment|
+|--|--|--|--|--|--|
+|Survival-Games|[play.survival-games.cz](http://play.survival-games.cz/)|-|-|-|The Server is restricted outside Czech Republic|
+|Cristalix|[mc.cristalix.gg](http://mc.cristalix.gg/)|-|-|-|A Russian Server that requires their own launcher to be able to play their server|
