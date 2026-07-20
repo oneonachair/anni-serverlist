@@ -13,7 +13,8 @@ You can contribute on this repo by making a pull request.
 |--|--|--|--|--|--|
 |CosmicMC|[play.cosmicmc.com](http://play.cosmicmc.com/)|1.8.8/1.8.9|1.8+|Canada|This server specifically allows you to have Custom Enchantments, and Place Blocks that can regenerate for the rest of the match.|
 |Lucky Network|[play.luckynetwork.net](http://play.luckynetwork.net)|1.21.11|1.21.11|Singapore|There are currently 2 maps at the moment, CostalV3 and Canyon. All Team Colors are changed as well.|
-|GuildCraft|[play.guildcraft.net](http://play.guildcraft.net/)|1.8|1.8|Germany||
+|GuildCraft|[play.guildcraft.net](http://play.guildcraft.net/)|1.8|1.8+|Germany||
+|MelonMC|[play.melonmc.cz](http://play.melonmc.cz/)|1.7.10|1.7.10-1.8|-||
 ## Unverified Servers
 |Server Name|Server IP|Native Version|Version Range|Region|Comment|
 |--|--|--|--|--|--|
